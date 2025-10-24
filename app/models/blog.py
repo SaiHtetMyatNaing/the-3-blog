@@ -13,3 +13,15 @@
 # - category: many blogs can belong to one category
 # - comments: one blog can have many comments
 # - likes: one blog can have many likes
+
+# Example data structure:
+# {
+#     "id": 1,
+#     "title": "My First Blog Post",
+#     "content": "This is my amazing blog content...",
+#     "author_id": 5,
+#     "category_id": 1,
+#     "is_published": true,
+#     "created_at": "2025-01-15T10:30:00",
+#     "updated_at": "2025-01-15T14:20:00"
+# }

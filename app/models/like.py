@@ -9,3 +9,11 @@
 # Relationships:
 # - blog: many likes belong to one blog
 # - user: many likes belong to one user
+
+# Example data structure:
+# {
+#     "id": 1,
+#     "blog_id": 1,
+#     "user_id": 5,
+#     "created_at": "2025-01-15T10:30:00"
+# }
