@@ -11,7 +11,7 @@
 - FastAPI
 - SQLAlchemy
 - Pydantic
-- Database (SQLite/PostgreSQL)
+- Database (PostgreSQL)
 - JWT authentication
 
 # Setup Instructions
